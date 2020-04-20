@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+
+h1 {
+    font-family: 'Cairo', sans-serif;
+}
+
+#menu {
+   text-align: center;
+  
+}
+
+body {
+    background-color: rgb(70, 145, 70);
+}
